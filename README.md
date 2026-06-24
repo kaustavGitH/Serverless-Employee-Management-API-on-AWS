@@ -31,3 +31,13 @@ The application leverages AWS serverless services to provide a scalable, highly 
 | Home Page                                                                                                         | API Gateway                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [![Screenshot of form homepage](/docs/images/employee-form-home-page.png)](docs/images/employee-form-home-page.png) | [![Screenshot of API Gateway screen](/docs/images/)](/docs/images/)
+
+## Learning Outcomes
+- Serverless Application Development
+- AWS Lambda
+- API Gateway Integrations
+- DynamoDB Operations
+- IAM Roles and Permissions
+- S3 Static Website Hosting
+- REST API Design
+- Frontend and Backend Integration
