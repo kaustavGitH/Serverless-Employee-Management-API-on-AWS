@@ -28,9 +28,11 @@ The application leverages AWS serverless services to provide a scalable, highly 
 | DELETE | `/employee/{employeeId}` | Delete Employee |
 
 ## Screenshots / Demo
-| Home Page                                                                                                         | API Gateway                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [![Screenshot of form homepage](/docs/images/employee-form-home-page.png)](docs/images/employee-form-home-page.png) | [![Screenshot of API Gateway screen](/docs/images/)](/docs/images/)
+| Home Page                                                                                          | API Gateway                                                                                              | Lambda 
+Functions                                                                                            |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+------------------------------------------------------------------------------------------------------ |
+| [![Screenshot of form homepage](/docs/images/employee-form-home-page.png)](docs/images/employee-form-home-page.png) | [![Screenshot of API Gateway screen](/docs/images/api-gateway-routes.png)](/docs/images/api-gateway-routes.png) | [![Screenshot of Lambda screen](/docs/images/lambda-crud-functions.png)](/docs/images/lambda-crud-functions.png)
 
 ## Learning Outcomes
 - Serverless Application Development
